@@ -164,7 +164,7 @@ export default function Home() {
         >
           Hi,
           <br />
-          i'm{" "}
+          I'm{" "}
           <span
             style={{
               color: "grey",
@@ -338,7 +338,7 @@ export default function Home() {
           src="/gambar2.jpeg"
           width={350}
           height={350}
-          alt="1"
+          alt="2"
           className="gambar1"
           style={{ borderRadius: "50px", border: "3px solid black" }}
         />
@@ -351,7 +351,7 @@ export default function Home() {
           src="/gambar3.jpeg"
           width={350}
           height={350}
-          alt="1"
+          alt="3"
           className="gambar1"
           style={{ borderRadius: "50px", border: "3px solid black" }}
         />
@@ -360,7 +360,7 @@ export default function Home() {
           src="/gambar4.jpeg"
           width={350}
           height={350}
-          alt="1"
+          alt="4"
           className="gambar1"
           style={{ borderRadius: "50px", border: "3px solid black" }}
         />
